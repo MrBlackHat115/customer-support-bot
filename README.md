@@ -1,4 +1,4 @@
-# customer-support-bot
+# Customer-Support-Bot
 
 A context-aware FAQ chatbot built using **BERT** and **Hugging Face Transformers**.  
 This project demonstrates how transformer-based language models can be used for **question answering** over custom business data.
