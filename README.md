@@ -29,3 +29,21 @@ The chatbot takes a user question and extracts the most relevant answer directly
 5. The answer span is extracted from the context
 
 ---
+
+## Conda Environment (Optional but Recommended)
+```bash
+conda create -n faq_chatbot python=3.11 -y
+conda activate faq_chatbot
+pip install torch transformers sentencepiece numpy
+```
+
+## Environment Requirements
+
+- Python 3.9+
+- PyTorch
+- Hugging Face Transformers
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
